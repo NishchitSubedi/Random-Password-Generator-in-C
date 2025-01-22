@@ -6,7 +6,7 @@ Welcome to the Basic Data Router Modelling Program! This program simulates a sim
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shirshxk/C-Coursework.git
+    git clone https://github.com/NishchitSubedi/Random-Password-Generator-in-C
     ```
 
 2. Compile the program:
