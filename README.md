@@ -16,7 +16,7 @@ Welcome to the Basic Data Router Modelling Program! This program simulates a sim
 
 3. Run the program:
     ```bash
-    ./main
+    ./c-coursework
     ```
 
 4. Follow the prompts to enter the incoming link ID.
