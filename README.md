@@ -11,7 +11,7 @@ Welcome to the Basic Data Router Modelling Program! This program simulates a sim
 
 2. Compile the program:
     ```bash
-    gcc -o main main.c
+    gcc c-coursework.c -o c-coursework
     ```
 
 3. Run the program:
