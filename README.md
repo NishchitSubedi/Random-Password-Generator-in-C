@@ -1,6 +1,6 @@
-# Basic Data Router Modelling Program
+# Random Password Generator
 
-Welcome to the Basic Data Router Modelling Program! This program simulates a simple data router that processes incoming packets, checks for authorized ports, and determines whether to route or discard each packet based on predefined rules.
+Welcome to the Random Password Generator Program! This program simulates a simple random password generator that ensures security.
 
 ## Usage
 
